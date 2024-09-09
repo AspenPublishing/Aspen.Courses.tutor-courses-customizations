@@ -1,0 +1,2 @@
+recursive-include courses_customizations/patches *
+recursive-include courses_customizations/templates *
