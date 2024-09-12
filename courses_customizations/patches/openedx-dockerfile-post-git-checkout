@@ -1,0 +1,1 @@
+RUN curl -fsSL https://github.com/AspenPublishing/edx-platform/commit/f9f66d589809201a7bee995c4d0c25f6d7347afe.patch | git am
