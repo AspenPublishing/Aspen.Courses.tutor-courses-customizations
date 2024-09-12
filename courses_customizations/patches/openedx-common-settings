@@ -1,1 +1,2 @@
 ASPEN_CLIENT_BASE_URL = "https://nl-gatekeeper-prod.azurewebsites.net"
+LOGGING["handlers"]["tracking"]["formatter"] = "raw"
