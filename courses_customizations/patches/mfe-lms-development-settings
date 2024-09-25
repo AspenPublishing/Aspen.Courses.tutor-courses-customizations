@@ -1,0 +1,4 @@
+MFE_CONFIG["LOGO_URL"]: "http://local.edly.io:8000/static/indigo/images/logo.svg"
+MFE_CONFIG["LOGO_TRADEMARK_URL"]: "http://local.edly.io:8000/static/indigo/images/logo-trademark.svg"
+MFE_CONFIG["LOGO_WHITE_URL"]: "http://local.edly.io:8000/static/indigo/images/logo-white.svg"
+MFE_CONFIG["FAVICON_URL"]: "http://local.edly.io:8000/static/indigo/images/favicon.ico"
