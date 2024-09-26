@@ -1,1 +1,0 @@
-RUN npm install '@edx/brand@git+https://github.com/AspenPublishing/Aspen.Courses.brand-openedx.git#1ce6cabc29b6269499f1b59cbc0d436ee8f88cba'
