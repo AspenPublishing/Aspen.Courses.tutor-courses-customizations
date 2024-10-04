@@ -1,2 +1,2 @@
 ARG GITHUB_TOKEN
-RUN pip install -e git+https://{{ GITHUB_TOKEN }}@github.com/AspenPublishing/Aspen.JDNext.EDX.Remote-Authn-Plugin.git@3fc10aa69a15a264d5ca3c3321d5bc364a814032#egg=remote_authn
+RUN pip install -e git+https://{{ GITHUB_TOKEN }}@github.com/AspenPublishing/Aspen.JDNext.EDX.Remote-Authn-Plugin.git@2843e435a761150412ec961bdabcf23564f3c084#egg=remote_authn
