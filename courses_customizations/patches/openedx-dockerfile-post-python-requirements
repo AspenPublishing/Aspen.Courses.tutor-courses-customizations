@@ -1,2 +1,3 @@
 ARG GITHUB_TOKEN
 RUN pip install -e git+https://{{ GITHUB_TOKEN }}@github.com/AspenPublishing/Aspen.JDNext.EDX.Remote-Authn-Plugin.git@843900e912b19d9eaf53c617527d183ea7d40af8#egg=remote_authn
+RUN pip install -e git+https://github.com/mitodl/edx-username-changer.git@main#egg=edx-username-changer
