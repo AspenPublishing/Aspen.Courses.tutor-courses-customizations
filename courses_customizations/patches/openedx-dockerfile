@@ -1,0 +1,1 @@
+ENV AZURE_CONNECTION_STRING="InstrumentationKey=af537d18-b75b-4849-b1d8-26365b6688bc;IngestionEndpoint=https://eastus-0.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/;ApplicationId=e54aaaba-4621-471b-864b-c5532d45a96a"
