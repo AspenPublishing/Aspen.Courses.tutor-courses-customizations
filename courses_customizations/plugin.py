@@ -19,6 +19,12 @@ hooks.Filters.CONFIG_DEFAULTS.add_items(
         # Each new setting is a pair: (setting_name, default_value).
         # Prefix your setting names with 'COURSES_CUSTOMIZATIONS_'.
         ("COURSES_CUSTOMIZATIONS_VERSION", __version__),
+        ("OPENEDX_EXTRA_PIP_REQUIREMENTS", 
+            [
+                "git+https://github.com/raccoongang/xblock-video.git@master#egg=video_xblock",
+                "git+https://github.com/openedx/xblock-in-video-quiz.git@master#egg=invideoquiz-xblock"
+            ]
+        )
     ]
 )
 
