@@ -22,9 +22,9 @@ hooks.Filters.CONFIG_DEFAULTS.add_items(
         ("OPENEDX_EXTRA_PIP_REQUIREMENTS", 
             [
                 "git+https://github.com/raccoongang/xblock-video.git@master#egg=video_xblock",
-                "git+https://github.com/openedx/xblock-in-video-quiz.git@master#egg=invideoquiz-xblock"
+                "git+https://github.com/openedx/xblock-in-video-quiz.git@master#egg=invideoquiz-xblock",
             ]
-        )
+        ),
     ]
 )
 
