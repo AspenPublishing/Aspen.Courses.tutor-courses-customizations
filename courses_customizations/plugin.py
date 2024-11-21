@@ -23,6 +23,7 @@ hooks.Filters.CONFIG_DEFAULTS.add_items(
             [
                 "git+https://github.com/raccoongang/xblock-video.git@master#egg=video_xblock",
                 "git+https://github.com/openedx/xblock-in-video-quiz.git@master#egg=invideoquiz-xblock",
+                "eox-core==v11.0.0",
             ]
         ),
     ]
